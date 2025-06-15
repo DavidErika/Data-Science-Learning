@@ -48,7 +48,7 @@ The dataset was sourced from Kaggle and includes the following features:
 
 ## 🚀 Getting Started
 1. Clone this repository:
-git clone https://github.com/yourusername/descriptive-statistics.git
+git clone https://github.com/DavidErika/descriptive-statistics.git
 
 2. Open the notebook:
 descriptive-statistics.ipynb
