@@ -136,7 +136,7 @@ Interactive dashboards with Ms Excel, Streamlit, or BI tools
 ## 🛠 Getting Started
 1. Clone the repository:
 
-git clone https://github.com/yourusername/data-science-learning.git
+git clone https://github.com/DavidErika/data-science-learning.git
 
 2. Navigate into the directory:
 
